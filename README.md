@@ -1,7 +1,7 @@
 # Codecademy-Learn-TypeScript-Restaurant-Recommender
 
-This repositiry contains the result of the Codecademy project Restaurant Recommender.
-The goal with this project was to learn the basics of typescript by building a filter
-that finds restaurants that fullfill certern requirements.
+This repository contains the result of the Codecademy project Restaurant Recommender.
+The goal of this project was to learn the basics of typescript by building a filter
+that finds restaurants that fulfill certain requirements.
 
-The restaurants is loaded from the file called retsurants.ts and the logic i carried out in the index.ts file.
+The restaurants are loaded from the file called retsurants.ts and the logic it carried out in the index.ts file.
