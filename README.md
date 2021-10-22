@@ -1,4 +1,4 @@
-# Codecademy-Learn-TypeScript-Restaurant-Recommender
+# Learn-TypeScript-Restaurant-Recommender
 
 <p>This repository contains the result of the Codecademy project Restaurant Recommender.<br/>The goal of this project was to learn the basics of TypeScript by building a filter<br/>that finds restaurants that fulfill certain requirements.</p>
 
